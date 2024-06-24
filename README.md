@@ -53,10 +53,10 @@ O objetivo do sistema é facilitar a organização e a visualização de informa
 - `Visualizar Detalhes do Time`: Exibir informações completas sobre o time, incluindo lista de jogadores e competições em que está inscrito.
 - `Agendar Partida`: Programar uma nova partida entre dois times para uma data e hora específicas. Define uma nova partida no calendário, incluindo detalhes de data, hora e times participantes.
 - `Registrar Resultado da Partida`: Inserir o resultado de uma partida após seu término. Permite o registro das pontuações de cada time após a conclusão da partida.
-
-OBS.: Todas as entidades devem ter um identificador
 - `Visualizar Histórico de Partidas`: Mostrar todas as partidas agendadas ou já realizadas, com seus respectivos resultados. Exibe um histórico completo das partidas, incluindo vencedores.
-- `Criar Competição`: Iniciar uma nova competição, definindo seu nome, datas e times participantes..
+- `Criar Competição`: Iniciar uma nova competição, definindo seu nome, datas e times participantes.
 - `Adicionar Time à Competição`: Inscrever um time em uma competição. Permite a inscrição de um time em uma competição já existente.
 - `Remover Time da Competição`: Excluir um time da lista de participantes de uma competição. Esta ação remove um time de uma competição específica, mas não do sistema.
 - `Gerar Relatório da Competição`: Criar um relatório detalhado da competição, incluindo partidas, resultados e classificação final.
+
+OBS.: Todas as entidades devem ter um identificador
